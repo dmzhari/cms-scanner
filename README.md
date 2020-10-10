@@ -4,7 +4,7 @@
   - Joomla
   - Drupal
   - vBulletin
-  - Drupal
   - Magento
   - OpenCart And
   - Lokomedia
+  - Bonus Scan Filemanager Source
