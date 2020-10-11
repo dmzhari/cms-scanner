@@ -8,3 +8,12 @@
   - OpenCart And
   - Lokomedia
   - Bonus Scan Filemanager Source
+  
+# Install In Termux
+```
+pkg nstall php
+pkg install git
+git clone https://github.com/dmzhari/cms-scanner/
+cd cms-scanner
+php cms.php
+```
